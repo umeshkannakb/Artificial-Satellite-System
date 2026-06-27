@@ -1,0 +1,16 @@
+# MicroPython / Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Thonny IDE
+.thonny/
+
+# CSV log files from actual hardware runs (optional â€” commit only sample logs)
+LOG_*.csv
+!sample_log.csv
+
+# OS
+.DS_Store
+Thumbs.db
